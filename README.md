@@ -47,7 +47,7 @@ It also makes it easier to filter the data and look at specific employee or depa
 
 ## Dashboard Preview
 
-![dashboard_screnshot](dashboard_screnshot.png)
+![dashboard_screenshot](dashboard_screenshot.png)
 
 ## Project File
 
