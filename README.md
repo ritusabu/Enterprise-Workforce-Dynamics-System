@@ -1,8 +1,6 @@
 # Enterprise-Workforce-Dynamics-System
 An interactive HR Operations &amp; Talent Analytics Dashboard built using Advanced Excel, Power Query, and Power Pivot to analyze a global enterprise workforce dataset of 30,000+ employees.
 
-# Enterprise Workspace Dynamic and Talent Operations System
-
 ## About the Project
 
 This is an Advanced Excel project created to analyze HR and employee data.
@@ -49,7 +47,7 @@ It also makes it easier to filter the data and look at specific employee or depa
 
 ## Dashboard Preview
 
-![HR Dashboard](HR_Dashboard.png)
+![dashboard_screnshot](dashboard_screnshot.png)
 
 ## Project File
 
